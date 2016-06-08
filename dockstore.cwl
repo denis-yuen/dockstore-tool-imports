@@ -2,6 +2,8 @@
 
 cwlVersion: "cwl:draft-3"
 
+description: "Markdown description text here"
+
 class: CommandLineTool
 
 requirements:
