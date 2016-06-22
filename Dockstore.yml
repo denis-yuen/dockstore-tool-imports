@@ -2,7 +2,7 @@
 
 cwlVersion: "cwl:draft-3"
 
-description: "Markdown description text here"
+description: "Markdown description text here, this is a funky yml file"
 
 class: CommandLineTool
 
