@@ -2,7 +2,7 @@
 
 cwlVersion: "cwl:draft-3"
 
-description: "Markdown description text here"
+description: "An example of a CWL Tool that uses imports"
 
 class: CommandLineTool
 
