@@ -6,6 +6,10 @@ description: "An example of a CWL Tool that uses imports"
 
 class: CommandLineTool
 
+dct:creator:
+    foaf:name: "Solomon Shorser"
+    foaf:mbox: "solomon.shorser@oicr.on.ca"
+
 requirements:
   - $import: envvar-global.yml
   - $import: alea-docker.yml
