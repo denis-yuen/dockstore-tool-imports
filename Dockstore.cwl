@@ -7,7 +7,7 @@ description: "An example of a CWL Tool that uses imports"
 class: CommandLineTool
 
 dct:creator:
-    foaf:name: "Solomon Shorser"
+    foaf:name: "Not Solomon Shorser"
     foaf:mbox: "solomon.shorser@oicr.on.ca"
 
 requirements:
