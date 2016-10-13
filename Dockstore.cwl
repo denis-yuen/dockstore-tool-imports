@@ -2,7 +2,7 @@
 
 cwlVersion: "cwl:draft-3"
 
-description: "An example of a CWL Tool that uses imports and is really nice"
+doc: "An example of a CWL Tool that uses imports and is really nice"
 
 class: CommandLineTool
 
